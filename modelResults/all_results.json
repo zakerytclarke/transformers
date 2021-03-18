@@ -1,0 +1,21 @@
+{
+    "epoch": 3.0,
+    "eval_gen_len": 55.7429,
+    "eval_loss": 2.063843250274658,
+    "eval_mem_cpu_alloc_delta": 1998448,
+    "eval_mem_cpu_peaked_delta": 638828,
+    "eval_rouge1": 33.8505,
+    "eval_rouge2": 13.1365,
+    "eval_rougeL": 27.8332,
+    "eval_rougeLsum": 31.5921,
+    "eval_runtime": 119.8097,
+    "eval_samples": 35,
+    "eval_samples_per_second": 0.292,
+    "init_mem_cpu_alloc_delta": 310182,
+    "init_mem_cpu_peaked_delta": 13856,
+    "train_mem_cpu_alloc_delta": 376289,
+    "train_mem_cpu_peaked_delta": 330252,
+    "train_runtime": 4602.4051,
+    "train_samples": 440,
+    "train_samples_per_second": 0.072
+}
